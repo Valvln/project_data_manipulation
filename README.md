@@ -198,6 +198,17 @@ andando oltre il semplice accesso scolastico.
 
 ---
 
+## 🎯 Key Features
+
+✨ **Complete ETL Pipeline** — Load, clean, merge 4 World Bank datasets
+📊 **Interactive Visualizations** — Plotly-based exploratory analysis
+📈 **Statistical Analysis** — Correlation matrices, trend detection, outlier identification
+🌍 **Global Insights** — Analysis of 10 countries across 24 years (2000-2023)
+🏗️ **Modular Architecture** — Config-driven, reusable src/ modules
+🔬 **Reproducible** — Jupyter notebooks documenting each analysis phase
+
+---
+
 ## 👤 Autore
 
 Progetto realizzato come analisi data science sull'impatto dell'educazione sulla società.
